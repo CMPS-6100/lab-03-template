@@ -2,7 +2,7 @@
 
 In this lab, you will practice and build up an intuition around asymptotic analysis.
 
-Some prompts will require you to edit `main.py` and others will require answers will go in `answers.md`.
+Some prompts will require you to edit `main.py` and others will require answers to go in `answers.md`.
 
 Refer back to the [README.md](README.md) for instruction on git, how to test your code, and how to submit properly to get all the points you've earned.
 
