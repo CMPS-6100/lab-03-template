@@ -88,7 +88,7 @@ options for attacks with each dealing a different amount of damage
 and/or having other effects. What these attacks are, the damage they
 deal, and their potential effects are up to you.
 
-13. Detail the attack options for the player in your `answers.md` 
+13. Detail the attack options for the player in `answers.md` 
 
 After the player attacks, if the ghost has not been defeated, the ghost
 will then perform an attack that decreases the player's `hp` by a set amount
