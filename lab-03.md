@@ -123,7 +123,7 @@ the ghost choose its attack based on other information.
 These attacks and how the choice is made is up to you.
 
 14. If implemented, detail the ghost attack options and game logic for 
-ghost attack selection.
+ghost attack selection in `answers.md`.
 
 ## Epilogue
 
