@@ -81,7 +81,7 @@ encountered the ghost, they lost. Now you will give them a chance to
 defeat the ghost and still win.
 
 If the player encounters the ghost, the game should enter a combat loop.
-Both the player and ghost should have `hp` (health points). The combat
+Both the player and ghost should have hp (health points). The combat
 loop always starts with the player getting an opportunity to attack
 the ghost. The player should be presented with a set of atleast three
 options for attacks with each dealing a different amount of damage
@@ -91,7 +91,7 @@ deal, and their potential effects are up to you.
 13. Detail the attack options for the player in `answers.md` 
 
 After the player attacks, if the ghost has not been defeated, the ghost
-will then perform an attack that decreases the player's `hp` by a set amount
+will then perform an attack that decreases the player's hp by a set amount
 plus a random value. For example, the ghost's base damage could be 8 with a 
 random amount of additional damage up to 4 points. The ghost would thus 
 deal between 8 to 12 damage on each attach.
