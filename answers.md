@@ -6,7 +6,7 @@
 
 Place all written answers from `lab-03.md` here.
 
-## Asymptotic Analysis Problems
+## Asymptotic Analysis Problems (1 pt. ea.)
 
 1. $32n \in O(n)$
 
@@ -57,11 +57,12 @@ Place all written answers from `lab-03.md` here.
 
 
 
-## The Game
+## The Ghost Game
 
 Detail any and additional features that you added to the game here. 
 
-13. Add the text file for your custom map and a drawn image of it to your repository. Note the names of these files here. 
+13. Detail the attack options for your player.
 
 
-14. Document any additional bonus features you added to the game here.
+14. If implemented, detail the ghost attack options and game logic for 
+ghost attack selection.
