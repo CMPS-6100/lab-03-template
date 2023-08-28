@@ -76,7 +76,7 @@ Using the asymptotic definitions or the limit theorem, prove (or disprove) the f
 For this programming assignment, you will add a new feature to your Ghost 
 Game from the previous lab.
 
-Specifically, you will add combat to your game. Previously, if the player
+Specifically, you will add combat to your game! Previously, if the player
 encountered the ghost, they lost. Now you will give them a chance to
 defeat the ghost and still win.
 
